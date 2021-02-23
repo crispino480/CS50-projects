@@ -1,4 +1,4 @@
-#### CS50x - Introduction 
+## CS50x - Introduction 
 
 This folder contains projects written in Languages include C, Python, and SQL plus HTML, CSS, and JavaScript.
 --> reference to CS50 By [Havard University](https://www.harvard.edu/):  [https://cs50.harvard.edu/x/2021/](https://cs50.harvard.edu/x/2021/)
