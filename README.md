@@ -1,4 +1,4 @@
-# CS50-projects
+# CS50-Projects
 CS50 introduction to computer science
 
 This folder contains projects written in Languages include C, Python, and SQL plus HTML, CSS, and JavaScript.
