@@ -11,3 +11,6 @@ Shorts:
 ##  Pset 1:  **Scratch** , **C**
 -  [Scratch](https://github.com/crispino480/cs50/tree/cs50/problems/2021/x/scratch)
 -  [Hello world](https://github.com/crispino480/cs50/tree/crispino480-new) 
+- [Mario](https://github.com/crispino480/cs50/compare/master...mario-more)
+- [Cash](https://github.com/crispino480/cs50/blob/cs50/problems/2021/x/sentimental/cash/cash.py)
+- [Credit](https://github.com/crispino480/cs50/blob/crispino480-Credit/credit.py)
