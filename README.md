@@ -6,3 +6,7 @@ This folder contains projects written in Languages include C, Python, and SQL pl
 Shorts:
 - Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming.
 - Problem sets inspired by the arts, humanitiesenter code here, social sciences, and sciences. Course culminates in a final project.
+
+Pset 1: Scratch , C
+Scratch
+Hello world
