@@ -6,7 +6,7 @@
 - [Credit](https://github.com/crispino480/cs50/blob/crispino480-Credit/credit.py)
 - [Readability](https://github.com/crispino480/cs50/blob/crispino480-readability)
 - [Caesar](https://github.com/crispino480/cs50/blob/crispino480-caesar/caesar.c)
-- [Substitution](https://github.com/crispino480/cs50/blob/crispino480-substitution)
+- [Substitution](https://github.com/crispino480/cs50/tree/crispino480-substitution)
 - [Plurality](https://github.com/crispino480/cs50/tree/crispino480-plurality)
 - [Runoff](https://github.com/crispino480/cs50/tree/crispino480-Runoff)
 - [Speller](https://github.com/crispino480/cs50/tree/crispino480-speller)
