@@ -1,7 +1,7 @@
 ##  Problem sets :  **language**   **C**
 -  [Scratch](https://github.com/crispino480/cs50/tree/cs50/problems/2021/x/scratch)
 -  [Hello world](https://github.com/crispino480/cs50/tree/crispino480-new) 
-- [Mario](https://github.com/crispino480/cs50/compare/master...mario-more)
+- [Mario](https://github.com/crispino480/cs50/tree/mario-more)
 - [Cash](https://github.com/crispino480/cs50/tree/crispino480-cash)
 - [Credit](https://github.com/crispino480/cs50/blob/crispino480-Credit/credit.py)
 - [Readability](https://github.com/crispino480/cs50/tree/crispino480-readability)
