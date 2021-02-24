@@ -1,4 +1,4 @@
-## Cs50 Intro and Projects
+## CS50 Intro and Projects
 
 #### Read Me
 
