@@ -4,7 +4,7 @@
 - [Mario](https://github.com/crispino480/cs50/compare/master...mario-more)
 - [Cash](https://github.com/crispino480/cs50/blob/cs50/problems/2021/x/sentimental/cash)
 - [Credit](https://github.com/crispino480/cs50/blob/crispino480-Credit/credit.py)
-- [Readability](https://github.com/crispino480/cs50/blob/crispino480-readability)
+- [Readability](https://github.com/crispino480/cs50/tree/crispino480-readability)
 - [Caesar](https://github.com/crispino480/cs50/blob/crispino480-caesar/caesar.c)
 - [Substitution](https://github.com/crispino480/cs50/tree/crispino480-substitution)
 - [Plurality](https://github.com/crispino480/cs50/tree/crispino480-plurality)
