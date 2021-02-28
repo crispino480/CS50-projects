@@ -22,3 +22,7 @@ Shorts:
 - [Plurality](https://github.com/crispino480/cs50/tree/crispino480-plurality)
 - [Runoff](https://github.com/crispino480/cs50/tree/crispino480-Runoff)
 - [Speller](https://github.com/crispino480/cs50/tree/crispino480-speller)
+
+##  Problem sets :  Language Python
+
+[Hello.py](https://github.com/crispino480/cs50/tree/crispino480-Hello-Python) , [Marion.py](https://github.com/crispino480/cs50/tree/crispino480-Marion.py), [Cash.py](https://github.com/crispino480/cs50/tree/crispino480-cash.py) , [Credit.py](https://github.com/crispino480/cs50/tree/crispino480-credit.py) , [Readability.py](https://github.com/crispino480/cs50/tree/crispino480-Readability.py) , [DNA.py](https://github.com/crispino480/cs50/tree/crispino480-dna.py)
