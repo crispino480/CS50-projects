@@ -26,3 +26,9 @@ Shorts:
 ##  Problem sets :  Language Python
 
 [Hello.py](https://github.com/crispino480/cs50/tree/crispino480-Hello-Python) , [Marion.py](https://github.com/crispino480/cs50/tree/crispino480-Marion.py), [Cash.py](https://github.com/crispino480/cs50/tree/crispino480-cash.py) , [Credit.py](https://github.com/crispino480/cs50/tree/crispino480-credit.py) , [Readability.py](https://github.com/crispino480/cs50/tree/crispino480-Readability.py) , [DNA.py](https://github.com/crispino480/cs50/tree/crispino480-dna.py)
+
+## Problem sets : Language SQL
+
+- [Songs](https://github.com/crispino480/cs50/tree/crispino480-Songs.sql)
+- [Movies](https://github.com/crispino480/cs50/tree/crispino480-Movies.sql)
+- [Fiftyville](https://github.com/crispino480/cs50/tree/crispino480-fiftyville.sql)
