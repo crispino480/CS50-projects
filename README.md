@@ -37,3 +37,9 @@ Shorts:
 
 - [Trivia](https://github.com/crispino480/cs50/tree/crispino480-trivia.html)
 - [Homepage](https://github.com/crispino480/cs50/tree/crispino480-Homepage.html) 
+
+## Problem set : creating a web application using Flask
+
+- [Birthday](https://github.com/crispino480/cs50/tree/crispino480-Birthday.html)
+- [Finance](https://github.com/crispino480/cs50/tree/crispino480-Finance.py)
+
