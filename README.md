@@ -32,3 +32,8 @@ Shorts:
 - [Songs](https://github.com/crispino480/cs50/tree/crispino480-Songs.sql)
 - [Movies](https://github.com/crispino480/cs50/tree/crispino480-Movies.sql)
 - [Fiftyville](https://github.com/crispino480/cs50/tree/crispino480-fiftyville.sql)
+
+# Problem set :  Language HTML, CSS, JavaScript
+
+- [Trivia](https://github.com/crispino480/cs50/tree/crispino480-trivia.html)
+- [Homepage](https://github.com/crispino480/cs50/tree/crispino480-Homepage.html) 
