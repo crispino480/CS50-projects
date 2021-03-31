@@ -43,5 +43,5 @@ Shorts:
 - [Birthday](https://github.com/crispino480/cs50/tree/crispino480-Birthday.html)
 - [Finance](https://github.com/crispino480/cs50/tree/crispino480-Finance.py)
 
-## CS50 Final-Project : 
+## CS50 Final-Project : Gathering comments
 - [submit your comment](https://github.com/crispino480/cs50)
